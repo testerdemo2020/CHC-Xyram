@@ -1,0 +1,14 @@
+2023-03-16 21:50:58,888 - ClockHealth -INFO - TestCase for login started
+2023-03-16 21:50:58,892 - ClockHealth -INFO - Navigate to Login page
+2023-03-16 21:50:58,994 - ClockHealth -INFO - Email entered
+2023-03-16 21:50:59,070 - ClockHealth -INFO - Password entered
+2023-03-16 21:51:00,129 - ClockHealth -INFO - Login Successfully
+2023-03-16 21:51:00,291 - ClockHealth -INFO - Screenshot taken for homepage
+2023-03-16 21:51:00,300 - ClockHealth -INFO - TestCase 1 ended
+2023-03-21 21:41:16,047 - ClockHealth -INFO - TestCase for login started
+2023-03-21 21:41:16,059 - ClockHealth -INFO - Navigate to Login page
+2023-03-21 21:41:16,254 - ClockHealth -INFO - Email entered
+2023-03-21 21:41:16,323 - ClockHealth -INFO - Password entered
+2023-03-21 21:41:17,384 - ClockHealth -INFO - Login Successfully
+2023-03-21 21:41:17,558 - ClockHealth -INFO - Screenshot taken for homepage
+2023-03-21 21:41:17,568 - ClockHealth -INFO - TestCase 1 ended

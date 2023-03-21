@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Smoke Testing">
+
+	<listeners>
+		
+		<listener class-name="listnersClasses.TestListener"></listener>
+		
+	</listeners>
+	<parameter name="browser" value="chrome"/>
+	
+
+	<test name="Login Tests">
+		<classes>
+			<class name="testScript.TC_01_Login" />
+			
+		</classes>
+	</test>
+</suite> <!--
+Suite -->
